@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="left">About me</h3>
+Hi I'm Reo Takeuchi from Japan.<br>
+I have been working as a QA engineer.
 
-<!--
-**reomin/reomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SNS
++ [Twitter](https://x.com/reomin_take)
++ [Linkedin](https://www.linkedin.com/in/reo-takeuchi-b2a93a1a8/)
++ [Portfolio](https://portfolio-reotakeuchi.vercel.app/)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reomin&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reomin&show_icons=true&count_private=true&line_height=40&theme=nord)
